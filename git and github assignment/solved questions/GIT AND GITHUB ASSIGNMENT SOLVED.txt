@@ -1,0 +1,40 @@
+GIT AND GITHUB ASSIGNMENT SOLVED ANSWERS
+
+1. what is git?
+
+answer = git is a tool used for source code management. It is an open-source version control system used to handle small to very large projects efficiently. it is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+2. What do you understand by term version control system?
+
+answer= Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+3. what is github?
+
+answer = GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This teaches you GitHub essentials like repositories, branches, commits, and pull requests.
+
+4. mention some popular git hosting service?
+
+answer = some well known git hosting services are
+
+github, GitLab,Perforce,AWS CodeCommit etc.
+
+5.different types of version control system
+
+answer = The types of VCS are:
+> Local Version Control System.
+> Centralized Version Control System.
+> Distributed Version Control System.
+
+6. what benifits comes with using git?
+
+ answer = One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
+7. what is git repository?
+
+answer = A Git repository is a central storage location for managing and tracking changes in files and directories. It is a crucial component of the Git version control system, which enables collaborative development and allows multiple developers to work on a project simultaneously.
+
+8. what can you initialize a repository in git?
+
+ answer=To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new main branch.
+
+
